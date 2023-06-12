@@ -4,9 +4,14 @@
 html {background: url("Slike/Untitled-2.png") no-repeat center fixed;
       background-size: cover;
 }
+
+@font-face {font-family: "MelaniKovacevic"; src:url("Dokumenti/MelaniKovacevic.ttf");}
+@font-face {font-family: "League Spartan Light"; src:url("Dokumenti/League Spartan Light");}
+@font-face {font-family: "PP Pangram Sans Rounded Narrow"; src:url("Dokumenti/PP Pangram Sans Rounded Narrow");}
+
 body {
     min-height: 100%;
-    max-width: 1280px;
+    max-width: 100%;
     margin: 0 auto;
     background-size: cover;
 }
@@ -30,7 +35,7 @@ body {
 
 .drugapozadina {
     min-height: 100%;
-    max-width: 1280px;
+    max-width: 100%;
     margin: 0 auto;
     background-size: cover;}
 
