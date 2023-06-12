@@ -6,7 +6,8 @@ html {background: url("Slike/Untitled-2.png") no-repeat center fixed;
 }
 
 @font-face {font-family: "MelaniKovacevic"; src:url("Dokumenti/MelaniKovacevic.ttf");}
-@font-face {font-family: "League Spartan Light"; src:url("Dokumenti/League Spartan Light");}
+@font-face {font-family: "League Spartan Light"; src:url("Dokumenti/League Spartan Light.ttf");}
+@font-face {font-family: "League Spartan ExtraBold"; src:url("Dokumenti/League Spartan ExtraBold.ttf");}
 @font-face {font-family: "PP Pangram Sans Rounded Narrow"; src:url("Dokumenti/PPPangramSansRounded-Bold.otf");}
 
 body {
